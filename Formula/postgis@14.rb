@@ -1,4 +1,4 @@
-class Postgis < Formula
+class PostgisAT14 < Formula
   desc "Adds support for geographic objects to PostgreSQL"
   homepage "https://postgis.net/"
   url "https://download.osgeo.org/postgis/source/postgis-3.3.3.tar.gz"
